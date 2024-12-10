@@ -12,3 +12,5 @@ Tiffs
 main - Copy.ipynb
 *.png
 *.xlsx
+models
+*.h5
