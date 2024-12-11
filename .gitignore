@@ -14,3 +14,4 @@ main - Copy.ipynb
 *.xlsx
 models
 *.h5
+*.keras
