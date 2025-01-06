@@ -15,3 +15,4 @@ main - Copy.ipynb
 models
 *.h5
 *.keras
+.v2
